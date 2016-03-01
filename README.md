@@ -31,4 +31,4 @@ On your local machine,
 ssh -N -L 8888:localhost:8888 [username@]beach.colorado.edu
 ```
 
-Go to http://localhost:8888.
+Go to [http://localhost:8888](http://localhost:8888).
